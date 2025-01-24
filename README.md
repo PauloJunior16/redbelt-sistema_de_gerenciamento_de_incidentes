@@ -13,6 +13,16 @@ O projeto é dividido em dois módulos principais:
 - PHP 8.2+
 - Composer
 
+> [!IMPORTANT]
+> ### Configuração inicial
+> Clone este repositorio da forma que preferir, seja via SSH ou HTTPS, após isso acesse a pasta do projeto e rode o seguinte comando:
+> 
+> `git submodule update --init --recursive`
+> 
+> Esse comando ira realizar a conexão e atualização com os submodulos do projeto.
+> 
+> Após isso poderá seguir com as configuração do backend e frontend.
+
 ### Backend (Laravel)
  Após clonar o projeto navegue até a pasta do backend:
 
